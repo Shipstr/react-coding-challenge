@@ -1,6 +1,6 @@
-# Stan Coding Challenge
+# Fleet Coding Challenge
 
-> Welcome to the Stan Coding Challenge!
+> Welcome to the Fleet Coding Challenge!
 
 
 ## Overview
@@ -24,8 +24,9 @@ Although this is a basic exercise, we'll be looking for **simple, well-designed 
 You will need to build the following 3 pages with React:
 
 * A "Home" page
-* A "Series" page
-* A "Movies" page
+* An "Ocean Provider" page
+* An "Air Provider" page
+* A "Custom Broker" page
 
 The deployable solution should be built in a folder named **`dist`** with an entry point file of **`index.html`**.
 
@@ -46,28 +47,32 @@ This will be your `index.html` screen.
 You will need to display 2 tiles, which link to the "Series" page and the "Movies" page.
 
 
-### "Series" and "Movies" Pages
+### "Ocean Providers", "Air Providers" and "Custom Broker Providers" Pages
 
 Refer to the [screens/2-series.jpg](./screens/2-series.jpg) and [screens/3-movies.jpg](./screens/3-movies.jpg) screens.
 
 For each page you will need to fetch the JSON feed [feed/sample.json](./feed/sample.json), then:
 
-* Display the first 21 `entries`
-* Where the entry has a `releaseYear` attribute value >= `2010`
-* Sorted by the `title` attribute value in ascending alphanumeric order
+* Display the first 21 `providers`
+* Where the entry has a `yearStarted` attribute value >= `2010`
+* Sorted by the `companyName` attribute value in ascending alphanumeric order
 
-For the "Series" page filter on:
+For the "Ocean Providers" page filter on:
 
-* Where the entry has a `programType` attribute value of `series`
+* Where the entry has a `type` attribute value of `ocean`
 
-For the "Movies" page filter on:
+For the "Air Providers" page filter on:
 
-* Where the entry has a `programType` attribute value of `movie`
+* Where the entry has a `type` attribute value of `air`
+
+For the "Custom Brokers Providers" page filter on:
+
+* Where the entry has a `type` attribute value of `customBroker`
 
 The attributes you should use to display the entries are:
 
-* `title`
-* `images` → `Poster Art` → `url`
+* `providers`
+* `images` → `Company Logo` → `url`
 
 You will also need to handle the loading and error states, of fetching the JSON feed:
 
