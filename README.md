@@ -37,6 +37,7 @@ The pages should also be usable on mobile and tablet devices.
 
 You can assume that you do not have to support legacy browsers without features such as `fetch` or `flexbox`.
 
+View screens here: [SCREENS](https://invis.io/62DXI51HS)
 
 ### "Home" Page
 
@@ -44,7 +45,7 @@ Refer to the [screens/1-home.jpg](./screens/1-home.jpg) screen.
 
 This will be your `index.html` screen.
 
-You will need to display 2 tiles, which link to the "Series" page and the "Movies" page.
+You will need to display 2 tiles, which link to the "Ocean Providers" page, the "Air Providers" page and the "Customs Brokers" page..
 
 
 ### "Ocean Providers", "Air Providers" and "Custom Broker Providers" Pages
