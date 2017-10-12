@@ -41,7 +41,7 @@ You can assume that you do not have to support legacy browsers without features 
 
 ### "Home" Page
 
-Refer to the [screens/1-home.jpg](./screens/1-home.jpg) screen.
+Refer to the [HOME](https://invis.io/62DXI51HS#/250489784_home_Page) screen.
 
 This will be your `index.html` screen.
 
@@ -50,7 +50,7 @@ You will need to display 2 tiles, which link to the "Ocean Providers" page, the 
 
 ### "Ocean Providers", "Air Providers" and "Custom Broker Providers" Pages
 
-Refer to the [screens/2-series.jpg](./screens/2-series.jpg) and [screens/3-movies.jpg](./screens/3-movies.jpg) screens.
+Refer to the [AIR PROVIDERS](https://invis.io/62DXI51HS#/250489780_air_Providers), [OCEAN PROVIDERS](https://invis.io/62DXI51HS#/250489781_ocean_Providers) and [CUSTOMS BROKERS PROVIDERS](https://invis.io/62DXI51HS#/250489779_air_Providers_Copy) screens.
 
 For each page you will need to fetch the JSON feed [feed/sample.json](./feed/sample.json), then:
 
@@ -77,8 +77,8 @@ The attributes you should use to display the entries are:
 
 You will also need to handle the loading and error states, of fetching the JSON feed:
 
-* "Loading" state [screens/1.1-loading.jpg](./screens/1.1-loading.jpg)
-* "Error" state [screens/1.2-error.jpg](./screens/1.2-error.jpg)
+* "Loading" state [LOADING SCREEN](https://invis.io/62DXI51HS#/250489783_loading)
+* "Error" state [ERROR SCREEN](https://invis.io/62DXI51HS#/250489782_error)
 
 
 ## FAQ
