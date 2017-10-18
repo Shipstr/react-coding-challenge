@@ -101,5 +101,5 @@ Also, add the following info to your `README`:
 ## Useful Links
 
 * [Github](https://github.com/) - Source code hosting
-* [Google Fonts - Source Sans Pro](https://fonts.google.com/specimen/Source+Sans+Pro)
+* [Google Fonts - Lato](https://fonts.google.com/specimen/Lato)
 * [React](https://facebook.github.io/react/)
