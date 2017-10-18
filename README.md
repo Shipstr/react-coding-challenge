@@ -45,7 +45,7 @@ Refer to the [HOME](https://invis.io/62DXI51HS#/250489784_home_Page) screen.
 
 This will be your `index.html` screen.
 
-You will need to display 2 tiles, which link to the "Ocean Providers" page, the "Air Providers" page and the "Customs Brokers" page..
+You will need to display 3 tiles, which link to the "Ocean Providers" page, the "Air Providers" page and the "Customs Brokers" page..
 
 
 ### "Ocean Providers", "Air Providers" and "Custom Broker Providers" Pages
