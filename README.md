@@ -21,7 +21,7 @@ Although this is a basic exercise, we'll be looking for **simple, well-designed 
 
 ## Details
 
-You will need to build the following 3 pages with React:
+You will need to build the following 4 pages with React:
 
 * A "Home" page
 * An "Ocean Provider" page
