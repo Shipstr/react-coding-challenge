@@ -101,5 +101,5 @@ Also, add the following info to your `README`:
 ## Useful Links
 
 * [Github](https://github.com/) - Source code hosting
-* [Google Fonts - Raleway](https://fonts.google.com/?selection.family=Raleway)
+* [Google Fonts - Source Sans Pro](https://fonts.google.com/specimen/Source+Sans+Pro)
 * [React](https://facebook.github.io/react/)
