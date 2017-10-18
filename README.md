@@ -100,6 +100,6 @@ Also, add the following info to your `README`:
 
 ## Useful Links
 
-* [Bitbucket](https://bitbucket.org/) - Source code hosting, with free private repositories for small teams.
+* [Github](https://github.com/) - Source code hosting
 * [Google Fonts - Raleway](https://fonts.google.com/?selection.family=Raleway)
 * [React](https://facebook.github.io/react/)
