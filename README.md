@@ -39,6 +39,8 @@ You can assume that you do not have to support legacy browsers without features 
 
 ### View screens here: [SCREENS](https://invis.io/62DXI51HS)
 
+Any required files are either in the `assets` directory or found in the Useful Links section at the bottom.
+
 ### "Home" Page
 
 Refer to the [HOME](https://invis.io/62DXI51HS#/250489784_home_Page) screen.
@@ -85,7 +87,7 @@ You will also need to handle the loading and error states, of fetching the JSON 
 
 ### What language, framework, build tool... should I use?
 
-You may use whatever you like as long as the solution is built using [React](https://facebook.github.io/react/). [Vue.js](https://vuejs.org/) is also acceptable..
+You may use whatever you like as long as the solution is built using [React](https://facebook.github.io/react/) or [Vue.js](https://vuejs.org/).
 
 ### What should I include with my source code?
 
@@ -103,3 +105,4 @@ Also, add the following info to your `README`:
 * [Github](https://github.com/) - Source code hosting
 * [Google Fonts - Lato](https://fonts.google.com/specimen/Lato)
 * [React](https://facebook.github.io/react/)
+* [Vue.js](https://vuejs.org/)
