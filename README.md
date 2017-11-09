@@ -85,7 +85,7 @@ You will also need to handle the loading and error states, of fetching the JSON 
 
 ### What language, framework, build tool... should I use?
 
-You may use whatever you like as long as the solution is built using [React](https://facebook.github.io/react/).
+You may use whatever you like as long as the solution is built using [React](https://facebook.github.io/react/). [Vue.js](https://vuejs.org/) is also acceptable..
 
 ### What should I include with my source code?
 
