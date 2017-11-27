@@ -433,7 +433,7 @@
     {
       "companyName": "Bollinger Mach Shp & Shipyard",
       "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.",
-      "type": "ocean",
+      "type": "customBroker",
       "images": {
         "Company Logo": {
           "url": "http://www.logoopenstock.com/media/users/136/1151/raw/8a9762ccc19acc19c09e8a692eb826ac-web-marketing-logo-02.jpg",
@@ -901,7 +901,7 @@
     {
       "companyName": "Opryland Hotel",
       "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.",
-      "type": "air",
+      "type": "customBroker",
       "images": {
         "Company Logo": {
           "url": "http://www.logoopenstock.com/media/users/136/64815/raw/37b96365e478f1262ab88a11c4f1fac7-giraffe-color-circles-zoo-logo.jpg",
@@ -1057,7 +1057,7 @@
     {
       "companyName": "Ford Brothers Wholesale Inc",
       "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.",
-      "type": "ocean",
+      "type": "customBroker",
       "images": {
         "Company Logo": {
           "url": "http://www.logoopenstock.com/media/users/136/1151/raw/8a9762ccc19acc19c09e8a692eb826ac-web-marketing-logo-02.jpg",
@@ -1265,7 +1265,7 @@
     {
       "companyName": "Oh My Goodknits Inc",
       "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.",
-      "type": "air",
+      "type": "customBroker",
       "images": {
         "Company Logo": {
           "url": "http://www.logoopenstock.com/media/users/136/64815/raw/37b96365e478f1262ab88a11c4f1fac7-giraffe-color-circles-zoo-logo.jpg",
