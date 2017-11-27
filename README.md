@@ -56,7 +56,7 @@ Refer to the [AIR PROVIDERS](https://invis.io/62DXI51HS#/250489780_air_Providers
 
 For each page you will need to fetch the JSON feed [feed/sample.json](./feed/sample.json), then:
 
-* Where the entry has a `yearStarted` attribute value >= `2010`
+* Where the provider has a `yearStarted` attribute value >= `2010`
 * Sorted by the `companyName` attribute value in ascending alphanumeric order
 * Display the first 20 `providers`, a load more functionality optionally could be included
 
